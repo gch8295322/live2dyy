@@ -1,12 +1,12 @@
 {
     "models": [
+        "prefer/Potion-Maker/Pio",
+        "prefer/Potion-Maker/Tia",
 		"prefer/haru01",
 		"prefer/haru02",
 		"prefer/tororo",
 		"prefer/Bronya",
 		"prefer/hijiki",
-        "prefer/Potion-Maker/Pio",
-        "prefer/Potion-Maker/Tia",
         "prefer/bilibili-live/22",
         "prefer/bilibili-live/33",
         [
@@ -39,12 +39,12 @@
 		"prefer/haruto"
     ],
     "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
 		"可爱的haru01",
 		"可爱的haru02",
 		"可爱的tororo",
 		"可爱的Bronya",
 		"hijiki",
-        "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说",
